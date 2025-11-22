@@ -1,7 +1,7 @@
 # Team 6 Mist 4610 Group Project 2
 ## Team Members
 1. Kipras Kairys [@KiprasKairys](https://github.com/KiprasKairys)
-2. Adrianoo Onate [@ado51234](https://github.com/ado51234)
+2. Adriano Onate [@ado51234](https://github.com/ado51234)
 3. Maxwell Shank [@MShank10](https://github.com/MShank10)
 4. Robert Backe [@robertbacke](https://github.com/robertbacke)
 ## Dataset Description
